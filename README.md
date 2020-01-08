@@ -1,7 +1,7 @@
 # About me
 
 ### Hometown
-I grew up "in a small town" called Seymour in Indiana. Seymour is famous for a train robbery see [here](https://en.wikipedia.org/wiki/Reno_Gang) and [John Cougar Mellancamp](https://en.wikipedia.org/wiki/John_Mellencamp) but overall is very roural middle America. 
+I grew up "in a small town" called Seymour in Indiana. Seymour is famous for a train robbery see [here](https://en.wikipedia.org/wiki/Reno_Gang) and [John Cougar Mellancamp](https://en.wikipedia.org/wiki/John_Mellencamp) but overall is rural quite town of about 20,000. 
 ### College
 I graduated from Indiana University (Bloomington) with a degree in Computer Science.
 ### Career
