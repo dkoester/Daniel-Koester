@@ -8,7 +8,7 @@ I graduated from Indiana University (Bloomington) with a degree in Computer Scie
 When I graduated I started out working for _Caterpillar_ in Peoria, IL. I worked there for 2 years before moving to Minnetonka to work for _Target_. At _Target_ I worked on a relatively high throughput API (over 1k Transactions per second). We refactored the app from distributed to a centralized app all while building within a new micro-services framework. 
 
 ### Recreation
-Outside of work I love to watch IU basketball and football. In the summer I am usually outside golfing in Chaska or going on weekend camping trips. 
+Outside of work I love to watch IU basketball and football. In the summer I am usually outside golfing in Chaska or going on weekend camping trips. I still have yet to walk on a frozen lake! 
 
 Here is a quick list of the top courses in the metro IMHO:
 1. [Edinburgh](http://www.edinburghusa.com/)
@@ -16,3 +16,6 @@ Here is a quick list of the top courses in the metro IMHO:
 3. [The Links at Northfolk](http://www.golfthelinks.com/)
 
 If you dissagree with this list let me know your favorite courses!
+
+
+
